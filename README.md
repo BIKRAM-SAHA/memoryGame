@@ -1,6 +1,6 @@
 # Memory Game
 
-A code along project from the following video (https://www.youtube.com/watch?v=lhNdUVh3qCc&t)[https://www.youtube.com/watch?v=lhNdUVh3qCc&t]
+A code along project from the following video [https://www.youtube.com/watch?v=lhNdUVh3qCc&t]
 
 ## Improvements by me
 1. isuue: in original code choosing the same card twice was captured as a win.
